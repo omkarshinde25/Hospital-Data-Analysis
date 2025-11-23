@@ -1,0 +1,501 @@
+PatientID,Name,Age,Gender,Department,AdmissionDate,DischargeDate,Doctor,BillAmount,Status
+1051,Karan,,Female,Neurology,12-32-2024,23-08-2020,Rohit,,Discharged
+1092,Rahul,,Female,Neurology,,23-01-2021,Karan,,Admitted
+1014,Rahul,,Female,Pediatrics,04-01-2023,12-32-2024,Vikram,,
+1071,Sara,57,Female,General,02-06-2020,16-09-2022,Sara,41560.77,Discharged
+1060,Aarav,,Other,Cardiology,29-12-2023,01-02-2022,Siya,,Discharged
+1020,Aarav,,Male,Neurology,23-09-2022,04-02-2021,Sara,38666.88,Discharged
+1082,Karan,40,Other,Orthopedics,14-01-2023,12-32-2024,Vikram,,Admitted
+1086,Sara,,Female,Orthopedics,27-11-2021,15-09-2021,Karan,,Under Observation
+1074,Vikram,,Male,Pediatrics,01-08-2023,05-02-2022,Sara,,Discharged
+1074,Neha,62,Other,General,12-32-2024,19-08-2023,Rohit,22462.85,Under Observation
+1087,Siya,,Other,Cardiology,28-05-2023,07-07-2022,Aarav,,
+1099,Priya,,Male,Pediatrics,28-12-2022,15-05-2023,Sara,22108.38,Under Observation
+1023,Rahul,,Other,Neurology,06-12-2022,06-06-2023,Karan,,Discharged
+1002,Neha,,Other,Neurology,05-10-2022,02-05-2022,Siya,19060.93,Under Observation
+1021,Vikram,,Other,Neurology,03-04-2020,31-07-2021,Aarav,28033.31,Discharged
+1052,Karan,,Female,Pediatrics,15-08-2022,15-03-2020,Rahul,,Discharged
+1001,Vikram,35,Female,Cardiology,12-32-2024,12-32-2024,Siya,20474.54,
+1087,Sara,,Other,Orthopedics,,10-03-2021,Siya,,Admitted
+1029,Sara,,Female,Neurology,08-10-2022,12-04-2020,Aarav,36291.98,Under Observation
+1037,Neha,86,Male,Orthopedics,,12-32-2024,Priya,21121.42,Under Observation
+1001,Aarav,6,Female,General,12-32-2024,16-12-2023,Aarav,,Discharged
+1063,Sara,74,Other,Oncology,28-03-2021,02-02-2022,Ananya,7061.07,Under Observation
+1059,Rohit,,Female,Neurology,12-05-2023,07-01-2022,Ananya,37029.48,Under Observation
+1020,Vikram,49,Female,Cardiology,30-06-2022,16-03-2022,Rohit,10456.39,Discharged
+1032,Rohit,,Female,Oncology,05-08-2020,22-08-2023,Ananya,35173.49,Discharged
+1075,Aarav,,Male,Orthopedics,12-32-2024,07-04-2020,Vikram,,Under Observation
+1057,Rohit,,Male,Neurology,18-04-2021,08-03-2022,Rohit,32259.32,Discharged
+1021,Priya,9,Other,Cardiology,12-32-2024,20-09-2023,Neha,,Under Observation
+1088,Aarav,,Other,Oncology,07-03-2021,12-32-2024,Sara,,
+1048,Vikram,,Female,Neurology,12-32-2024,08-05-2022,Priya,1006.83,
+1090,Vikram,,Other,Pediatrics,06-12-2020,,Aarav,,
+1058,Vikram,,Other,Pediatrics,04-07-2021,10-03-2021,Vikram,25709.16,Admitted
+1041,Sara,83,Female,Oncology,05-08-2023,22-03-2021,Rahul,41048.99,Admitted
+1091,Aarav,44,Other,Neurology,12-32-2024,24-08-2023,Karan,,Admitted
+1059,Ananya,12,Other,General,01-07-2023,05-09-2020,Karan,,Admitted
+1079,Neha,,Other,Pediatrics,22-12-2020,14-06-2020,Neha,,
+1014,Karan,,Other,Pediatrics,,10-09-2022,Priya,20429.81,Discharged
+1061,Vikram,58,Male,Neurology,23-01-2020,20-09-2023,Karan,14517.1,Admitted
+1061,Neha,,Other,Neurology,05-06-2021,16-10-2022,Aarav,7912.43,
+1046,Karan,,Other,General,28-01-2023,25-06-2021,Priya,,Admitted
+1061,Rohit,22,Male,Pediatrics,12-03-2022,12-32-2024,Karan,27907.63,Discharged
+1050,Sara,,Other,Cardiology,18-04-2023,28-01-2022,Rohit,,
+1054,Aarav,96,Female,Pediatrics,,03-02-2023,Rohit,43816.41,
+1063,Karan,,Male,General,31-05-2023,21-03-2020,Rohit,,Admitted
+1002,Rohit,38,Female,Cardiology,31-01-2022,,Karan,,Admitted
+1050,Rahul,,Other,Cardiology,17-03-2021,12-32-2024,Rohit,,
+1006,Rohit,,Other,Orthopedics,07-02-2022,12-05-2020,Karan,,Discharged
+1020,Aarav,77,Female,Pediatrics,12-10-2022,07-03-2022,Sara,,Under Observation
+1072,Aarav,35,Other,Neurology,10-09-2023,18-06-2022,Rahul,9954.39,Admitted
+1038,Siya,35,Other,Neurology,30-05-2021,,Neha,,
+1017,Neha,99,Male,Cardiology,,17-05-2020,Ananya,,Discharged
+1003,Karan,,Other,Oncology,05-11-2022,12-32-2024,Neha,,
+1088,Rahul,28,Other,Oncology,12-32-2024,,Karan,,Admitted
+1059,Vikram,89,Female,Orthopedics,02-03-2022,02-07-2020,Aarav,8157.18,Discharged
+1013,Vikram,83,Male,General,01-12-2020,25-11-2023,Karan,,Under Observation
+1008,Rohit,,Female,Cardiology,14-09-2020,15-09-2023,Rohit,10221.99,Discharged
+1089,Rohit,99,Other,General,11-05-2021,23-02-2022,Vikram,,
+1052,Priya,,Other,Pediatrics,12-32-2024,10-09-2022,Neha,,Under Observation
+1001,Ananya,79,Female,Oncology,12-32-2024,09-03-2020,Priya,,Discharged
+1083,Ananya,,Female,Orthopedics,14-06-2022,,Karan,,Admitted
+1091,Karan,,Male,Oncology,08-06-2020,12-32-2024,Ananya,,Admitted
+1059,Priya,,Other,Pediatrics,07-02-2024,29-06-2021,Siya,,Discharged
+1070,Karan,16,Female,Pediatrics,01-05-2022,22-02-2020,Priya,,
+1043,Aarav,,Male,Neurology,20-11-2021,13-01-2024,Sara,30791.57,
+1007,Siya,,Other,General,14-01-2021,23-07-2020,Neha,4487.71,
+1046,Neha,,Male,Oncology,12-32-2024,05-05-2020,Rahul,,Under Observation
+1034,Rahul,70,Male,General,14-08-2022,12-02-2020,Priya,15068.59,Under Observation
+1077,Karan,95,Male,Cardiology,,20-04-2020,Karan,38628.33,Admitted
+1080,Rohit,,Other,General,12-32-2024,30-01-2022,Ananya,17489.08,Under Observation
+1035,Neha,30,Other,Orthopedics,21-11-2021,21-04-2023,Rahul,7249.41,Under Observation
+1049,Siya,28,Female,Cardiology,21-12-2023,,Vikram,,Under Observation
+1003,Rohit,,Other,Neurology,15-07-2023,27-04-2022,Rahul,,Under Observation
+1001,Rahul,71,Other,Pediatrics,12-32-2024,04-04-2020,Rahul,,Under Observation
+1005,Siya,,Female,General,11-12-2023,29-10-2023,Neha,29576.62,
+1053,Siya,27,Male,Orthopedics,06-04-2023,18-06-2022,Karan,26064.04,Discharged
+1003,Sara,,Other,Oncology,12-32-2024,25-12-2020,Rohit,,
+1053,Siya,10,Male,Cardiology,02-12-2022,18-06-2022,Sara,3934.49,Discharged
+1092,Karan,,Other,Orthopedics,11-10-2020,07-10-2020,Priya,10990.09,Discharged
+1062,Neha,,Male,Cardiology,12-32-2024,03-05-2023,Rahul,11247.09,Admitted
+1017,Sara,90,Other,General,,12-32-2024,Rahul,,Discharged
+1089,Siya,84,Male,Pediatrics,31-01-2021,03-05-2023,Neha,36111.86,
+1043,Sara,54,Female,Orthopedics,12-01-2020,28-10-2021,Ananya,35124.36,Admitted
+1033,Rahul,,Male,Pediatrics,12-32-2024,12-32-2024,Siya,,Admitted
+1073,Sara,83,Female,Oncology,12-32-2024,02-04-2020,Priya,,Discharged
+1061,Vikram,51,Other,Oncology,18-08-2023,12-32-2024,Ananya,,Under Observation
+1099,Sara,,Other,Cardiology,30-06-2023,12-32-2024,Priya,,Admitted
+1013,Neha,72,Female,Orthopedics,13-05-2021,,Aarav,,Admitted
+1094,Neha,,Male,Pediatrics,23-01-2022,,Ananya,10246.37,Under Observation
+1047,Karan,,Male,Cardiology,,02-11-2021,Aarav,31154.4,Under Observation
+1014,Sara,,Female,Orthopedics,04-02-2020,01-03-2020,Rahul,,Discharged
+1071,Siya,,Female,Oncology,27-12-2021,,Rohit,,Under Observation
+1077,Siya,,Other,Cardiology,28-04-2022,,Vikram,,Admitted
+1086,Rahul,31,Male,General,30-03-2020,25-09-2021,Sara,,
+1061,Neha,,Male,Cardiology,14-02-2022,12-32-2024,Sara,3519.88,Discharged
+1039,Sara,,Male,Pediatrics,12-32-2024,10-12-2022,Siya,,Under Observation
+1084,Rohit,,Female,Cardiology,27-08-2021,12-32-2024,Karan,,
+1079,Rahul,,Male,Oncology,27-08-2022,27-11-2023,Sara,,Discharged
+1081,Rohit,,Other,Pediatrics,18-10-2022,25-10-2022,Neha,,Under Observation
+1052,Vikram,,Other,Pediatrics,21-02-2021,29-01-2024,Aarav,42430.1,Under Observation
+1023,Aarav,99,Other,Pediatrics,24-04-2020,26-08-2021,Rohit,,
+1025,Aarav,48,Female,Orthopedics,08-09-2021,12-11-2021,Neha,,
+1088,Priya,,Female,Neurology,12-32-2024,17-06-2021,Neha,44030,Under Observation
+1059,Neha,48,Other,Oncology,,12-32-2024,Aarav,20898.18,Under Observation
+1040,Siya,,Female,Neurology,04-05-2023,29-11-2023,Ananya,24671.01,Admitted
+1028,Priya,,Other,Neurology,,17-04-2022,Vikram,,
+1014,Siya,,Female,General,05-04-2022,06-10-2021,Rohit,,
+1044,Ananya,,Other,Oncology,03-01-2023,20-08-2020,Ananya,36198.19,Discharged
+1064,Vikram,,Other,Orthopedics,12-32-2024,,Siya,,Discharged
+1088,Siya,62,Other,Cardiology,16-02-2021,07-06-2021,Rohit,,Under Observation
+1070,Karan,,Other,Cardiology,31-10-2023,11-12-2020,Siya,5675.38,Admitted
+1008,Ananya,,Male,Cardiology,14-12-2023,05-12-2022,Karan,,Admitted
+1087,Sara,,Other,Neurology,29-12-2021,29-06-2021,Rohit,38221.25,Admitted
+1000,Sara,22,Female,Orthopedics,24-07-2023,12-32-2024,Rahul,,Discharged
+1007,Siya,89,Other,Orthopedics,17-10-2022,06-01-2023,Rohit,,Under Observation
+1087,Sara,37,Female,Oncology,30-01-2022,01-01-2023,Sara,26101.85,Admitted
+1062,Siya,16,Male,Pediatrics,06-11-2021,12-32-2024,Karan,,Under Observation
+1010,Ananya,,Female,Pediatrics,18-11-2023,04-03-2022,Neha,,Under Observation
+1080,Karan,39,Male,General,,,Vikram,37577.9,Admitted
+1007,Neha,46,Other,Oncology,01-04-2021,12-32-2024,Siya,18129.72,Under Observation
+1034,Siya,,Other,Pediatrics,08-07-2022,,Neha,,Under Observation
+1034,Sara,,Female,Neurology,10-07-2020,05-09-2020,Sara,27977.58,Discharged
+1032,Sara,,Other,Oncology,08-01-2022,12-32-2024,Ananya,45197.57,Discharged
+1004,Rohit,,Other,Pediatrics,27-01-2023,16-02-2020,Neha,15432.22,Discharged
+1040,Siya,43,Female,General,04-09-2022,18-02-2023,Aarav,,Admitted
+1027,Siya,58,Other,General,05-10-2022,01-08-2020,Rahul,,Admitted
+1006,Rahul,,Female,Pediatrics,05-04-2020,26-08-2020,Neha,,
+1072,Aarav,,Female,Orthopedics,12-32-2024,12-32-2024,Rohit,46982.5,Admitted
+1071,Neha,4,Other,Pediatrics,12-32-2024,12-32-2024,Priya,34079.43,Discharged
+1011,Siya,,Male,Orthopedics,12-32-2024,15-12-2022,Karan,,
+1033,Vikram,,Male,Pediatrics,24-10-2021,15-12-2020,Vikram,,Admitted
+1032,Siya,,Other,Orthopedics,28-04-2023,16-04-2020,Karan,42168.8,Under Observation
+1047,Karan,31,Male,Neurology,06-02-2020,10-04-2022,Neha,,
+1022,Rohit,,Female,Orthopedics,,,Ananya,7070.27,Admitted
+1061,Neha,,Female,Pediatrics,24-10-2023,17-02-2020,Vikram,41879.07,
+1087,Neha,65,Female,Orthopedics,12-32-2024,02-12-2020,Siya,,Discharged
+1036,Rahul,,Female,Oncology,05-10-2020,12-32-2024,Priya,12016.94,Admitted
+1098,Neha,35,Other,Pediatrics,12-32-2024,15-11-2022,Neha,2808.47,Admitted
+1043,Karan,90,Other,Neurology,,,Neha,30361.84,Discharged
+1085,Vikram,15,Other,Pediatrics,04-08-2020,14-03-2022,Neha,,Under Observation
+1090,Ananya,,Other,Oncology,,04-07-2023,Siya,31860.39,Under Observation
+1034,Aarav,,Male,Orthopedics,16-05-2022,08-01-2020,Vikram,23770.95,
+1064,Aarav,,Male,Orthopedics,22-05-2022,16-09-2021,Karan,,Admitted
+1098,Priya,72,Male,Pediatrics,12-32-2024,30-06-2023,Aarav,48959.82,Admitted
+1046,Karan,,Male,General,12-32-2024,19-12-2021,Vikram,21260.34,Discharged
+1077,Ananya,55,Female,Neurology,20-07-2023,29-10-2020,Neha,49945.4,Admitted
+1002,Vikram,,Female,Pediatrics,02-03-2020,30-09-2021,Neha,23416.8,Admitted
+1000,Karan,,Other,Pediatrics,12-32-2024,,Vikram,9931.28,Discharged
+1004,Ananya,,Female,Cardiology,18-08-2021,25-02-2020,Rohit,,Discharged
+1089,Sara,58,Female,Orthopedics,29-12-2021,26-12-2021,Rahul,,
+1013,Neha,,Other,Orthopedics,,09-06-2021,Priya,31284.69,Under Observation
+1026,Aarav,,Other,Pediatrics,,,Siya,42001,
+1008,Vikram,,Male,Pediatrics,27-09-2023,18-04-2021,Priya,,Admitted
+1078,Sara,,Other,Cardiology,31-01-2021,28-01-2020,Aarav,34401.83,Discharged
+1014,Rahul,,Other,General,12-32-2024,18-03-2020,Rohit,,Admitted
+1089,Vikram,,Male,Neurology,12-32-2024,24-05-2023,Vikram,,Under Observation
+1041,Karan,,Female,Neurology,29-11-2021,12-32-2024,Rohit,,Admitted
+1076,Vikram,78,Other,Oncology,08-11-2022,10-11-2023,Siya,,Discharged
+1050,Priya,,Female,Neurology,25-06-2020,,Siya,,
+1062,Priya,,Male,Oncology,30-01-2021,30-12-2020,Ananya,,
+1095,Priya,70,Female,Cardiology,20-03-2021,27-10-2021,Karan,48915.44,Discharged
+1051,Siya,49,Other,Orthopedics,,12-32-2024,Rohit,,Discharged
+1095,Sara,,Male,Neurology,10-06-2023,12-32-2024,Priya,,Admitted
+1003,Karan,,Female,Neurology,12-32-2024,09-06-2021,Ananya,35400.56,Admitted
+1093,Sara,,Other,Pediatrics,16-03-2020,29-11-2021,Neha,44400.16,Discharged
+1022,Sara,,Male,Neurology,21-09-2020,28-08-2023,Karan,,
+1014,Vikram,31,Other,General,30-03-2021,01-06-2022,Priya,43945.71,
+1042,Neha,,Other,Neurology,18-12-2021,27-10-2022,Sara,46638.55,Discharged
+1028,Sara,72,Female,Cardiology,04-01-2022,23-10-2022,Sara,,Under Observation
+1035,Rahul,,Other,Pediatrics,08-11-2023,07-07-2022,Neha,47497.47,Discharged
+1012,Ananya,,Male,Neurology,30-04-2022,19-01-2022,Neha,38769.86,Under Observation
+1031,Vikram,59,Other,Pediatrics,,28-12-2020,Rahul,39187.67,
+1070,Ananya,,Other,Neurology,22-10-2023,12-32-2024,Neha,49268.62,Under Observation
+1058,Neha,19,Male,Neurology,23-05-2020,21-07-2023,Aarav,,
+1085,Neha,65,Other,General,03-06-2022,16-03-2022,Neha,11310.99,
+1027,Karan,,Female,Pediatrics,28-12-2022,08-01-2022,Vikram,,Admitted
+1065,Priya,47,Female,Neurology,,04-11-2022,Ananya,13622.56,Under Observation
+1041,Ananya,41,Female,Oncology,12-32-2024,30-04-2023,Rohit,,
+1044,Aarav,,Male,General,27-01-2023,29-04-2021,Rohit,,
+1061,Sara,,Male,Cardiology,12-32-2024,28-01-2020,Priya,47556.08,Discharged
+1056,Siya,,Male,Orthopedics,30-01-2021,14-12-2021,Siya,44363.95,Admitted
+1005,Rohit,14,Other,General,,28-11-2022,Rahul,8232.18,
+1027,Neha,,Other,Orthopedics,,20-07-2023,Vikram,,Admitted
+1027,Vikram,52,Other,Oncology,14-11-2022,08-06-2023,Karan,,
+1043,Vikram,,Female,Orthopedics,05-08-2022,12-32-2024,Priya,,Admitted
+1083,Neha,62,Female,Orthopedics,09-06-2022,26-03-2020,Rohit,,
+1029,Neha,,Male,Cardiology,,06-02-2024,Neha,29101.89,Discharged
+1061,Vikram,24,Female,Oncology,01-02-2024,05-05-2020,Neha,39396.34,
+1074,Rohit,3,Other,General,20-03-2023,22-03-2022,Ananya,,Admitted
+1091,Rahul,,Female,Neurology,13-03-2023,20-06-2021,Neha,48833.34,
+1088,Karan,66,Other,Neurology,22-07-2021,12-32-2024,Neha,30647.56,Admitted
+1061,Aarav,,Other,Cardiology,28-11-2022,24-05-2020,Rohit,,Admitted
+1096,Siya,41,Other,Pediatrics,18-04-2020,20-05-2023,Sara,4371.03,Under Observation
+1000,Ananya,,Female,Neurology,,25-01-2020,Aarav,2939.2,Under Observation
+1026,Rohit,2,Male,General,12-32-2024,18-11-2023,Priya,,Under Observation
+1061,Aarav,,Male,Oncology,01-12-2022,07-03-2020,Vikram,49836.33,
+1076,Siya,16,Male,Oncology,,20-08-2020,Vikram,35356,Under Observation
+1002,Rohit,17,Female,Neurology,24-04-2023,,Siya,,Under Observation
+1069,Vikram,,Male,Neurology,23-07-2022,18-04-2020,Rahul,,
+1071,Rohit,65,Other,Orthopedics,12-32-2024,15-03-2023,Neha,23569.59,
+1026,Sara,56,Male,Oncology,01-02-2021,,Neha,,Admitted
+1008,Priya,,Other,Pediatrics,31-05-2023,20-04-2020,Sara,,Under Observation
+1061,Vikram,79,Female,Pediatrics,25-09-2021,15-08-2020,Siya,,
+1036,Aarav,,Male,Pediatrics,02-03-2023,20-04-2020,Priya,,Admitted
+1096,Vikram,,Female,Orthopedics,12-32-2024,,Siya,1777.32,Admitted
+1050,Rahul,,Male,Orthopedics,01-04-2023,02-02-2024,Vikram,25844.98,Discharged
+1043,Karan,59,Other,Cardiology,23-05-2023,12-32-2024,Sara,,
+1023,Sara,59,Male,Oncology,,03-02-2020,Priya,,Admitted
+1078,Rohit,70,Male,Cardiology,02-01-2022,14-09-2021,Siya,,Under Observation
+1058,Karan,33,Female,Oncology,12-32-2024,24-10-2023,Priya,,Under Observation
+1031,Vikram,36,Female,General,,17-01-2022,Aarav,38839.79,Admitted
+1095,Aarav,,Male,General,,17-08-2021,Ananya,32049.86,Admitted
+1087,Siya,97,Male,Neurology,12-32-2024,28-02-2021,Rahul,10485.66,Discharged
+1051,Sara,,Female,Cardiology,22-08-2020,04-09-2021,Rohit,30484.38,Under Observation
+1061,Siya,,Male,Neurology,12-32-2024,,Karan,,
+1057,Siya,,Other,General,19-10-2021,22-11-2021,Rahul,,Discharged
+1051,Karan,,Female,General,12-32-2024,29-07-2023,Rohit,,
+1011,Sara,84,Female,Cardiology,20-01-2022,05-09-2023,Ananya,,
+1038,Ananya,63,Other,Orthopedics,,06-01-2024,Rohit,,Under Observation
+1001,Sara,80,Male,Oncology,10-08-2021,10-11-2020,Vikram,,
+1002,Neha,,Female,Oncology,12-32-2024,26-05-2022,Vikram,,Discharged
+1055,Aarav,,Male,Cardiology,29-10-2022,01-11-2023,Ananya,27534.59,
+1080,Neha,,Male,Neurology,02-01-2023,12-32-2024,Aarav,,Under Observation
+1058,Ananya,,Male,Pediatrics,11-08-2022,,Priya,,Under Observation
+1001,Rohit,,Other,Neurology,,05-08-2023,Rohit,6653.4,Discharged
+1001,Sara,,Male,Oncology,12-32-2024,31-12-2023,Rohit,,
+1091,Karan,16,Male,Oncology,06-05-2021,23-10-2021,Sara,29500.45,Discharged
+1053,Karan,13,Male,Neurology,01-07-2022,03-10-2020,Aarav,24565.04,Admitted
+1086,Aarav,49,Other,General,30-06-2023,12-32-2024,Karan,38647.11,
+1095,Ananya,12,Male,Cardiology,07-06-2023,15-09-2021,Ananya,8411.7,Discharged
+1096,Vikram,,Other,Cardiology,12-04-2023,30-05-2021,Rohit,,Admitted
+1000,Sara,,Female,Orthopedics,12-32-2024,12-32-2024,Rohit,,Discharged
+1018,Vikram,,Female,Pediatrics,06-04-2023,05-10-2023,Priya,18506.47,
+1001,Priya,41,Other,Pediatrics,,12-32-2024,Siya,,Discharged
+1052,Rohit,1,Other,General,18-06-2020,,Ananya,47422.27,
+1043,Vikram,,Male,Neurology,17-11-2023,22-04-2022,Sara,,Under Observation
+1089,Sara,33,Other,General,03-08-2022,09-01-2024,Neha,,Under Observation
+1031,Siya,,Male,General,05-03-2022,,Sara,,Discharged
+1069,Karan,62,Female,Oncology,25-09-2021,15-12-2020,Aarav,,
+1031,Rahul,34,Other,Oncology,02-05-2023,02-04-2022,Rohit,41652.49,
+1067,Aarav,,Male,Cardiology,12-32-2024,06-03-2023,Siya,1362.07,Under Observation
+1054,Sara,,Other,Neurology,29-01-2020,28-01-2022,Neha,47543.81,Under Observation
+1074,Rahul,,Other,Neurology,,12-32-2024,Ananya,,Admitted
+1055,Aarav,,Male,Oncology,03-04-2023,12-32-2024,Aarav,,Discharged
+1016,Neha,,Male,Cardiology,12-32-2024,17-06-2022,Ananya,,Admitted
+1037,Karan,52,Other,Neurology,16-12-2023,30-08-2020,Rahul,,Admitted
+1023,Ananya,100,Male,Oncology,04-12-2020,12-32-2024,Rohit,,Admitted
+1068,Aarav,,Female,Oncology,12-32-2024,26-06-2021,Sara,,
+1097,Sara,59,Male,Cardiology,12-32-2024,29-11-2022,Neha,,Under Observation
+1069,Karan,,Female,Cardiology,20-10-2023,12-32-2024,Siya,10807.44,
+1085,Siya,,Male,Oncology,27-09-2023,16-08-2020,Aarav,,Discharged
+1010,Aarav,90,Female,General,14-05-2021,01-07-2021,Vikram,32712.79,Discharged
+1015,Sara,,Female,Neurology,,12-32-2024,Aarav,32702.12,Discharged
+1096,Aarav,,Other,Oncology,25-05-2021,08-07-2022,Neha,41137.06,Under Observation
+1072,Neha,,Female,General,12-09-2023,12-32-2024,Rahul,,Under Observation
+1058,Priya,93,Male,Neurology,04-08-2020,12-32-2024,Karan,2178.49,
+1069,Ananya,,Male,Orthopedics,17-08-2023,31-05-2023,Rohit,,Admitted
+1079,Rahul,,Other,Cardiology,,,Sara,,Under Observation
+1092,Vikram,,Male,Cardiology,01-03-2023,06-01-2020,Neha,,
+1002,Rahul,,Male,Oncology,29-12-2022,12-32-2024,Rahul,,Admitted
+1019,Ananya,95,Male,General,29-06-2023,07-09-2023,Rahul,,Discharged
+1058,Karan,47,Male,General,09-12-2023,12-04-2021,Siya,,Admitted
+1035,Rahul,79,Male,Pediatrics,,15-03-2020,Ananya,11923.21,
+1018,Karan,,Female,Oncology,,04-01-2020,Rohit,,
+1089,Neha,16,Female,Orthopedics,20-03-2021,07-10-2021,Siya,,Admitted
+1066,Neha,91,Female,Orthopedics,,27-04-2020,Aarav,,Discharged
+1018,Siya,79,Other,Oncology,25-05-2022,30-05-2022,Aarav,37131.47,Discharged
+1019,Vikram,14,Female,Orthopedics,20-04-2023,18-05-2021,Ananya,,Discharged
+1095,Karan,,Female,Orthopedics,15-06-2020,04-08-2022,Priya,43300.82,Discharged
+1070,Vikram,62,Male,Cardiology,31-03-2020,27-07-2021,Karan,,Under Observation
+1051,Karan,25,Male,Neurology,,04-01-2024,Rahul,,Admitted
+1032,Siya,,Female,Pediatrics,14-12-2021,12-07-2020,Neha,,Discharged
+1039,Neha,63,Female,Orthopedics,12-32-2024,26-04-2022,Neha,24566.79,
+1038,Neha,52,Female,General,08-02-2020,12-32-2024,Neha,35181.91,Under Observation
+1081,Rohit,34,Male,Orthopedics,23-02-2023,15-12-2021,Aarav,46050.27,Admitted
+1000,Aarav,60,Male,Oncology,14-01-2024,12-32-2024,Aarav,,Discharged
+1010,Ananya,91,Female,Orthopedics,12-32-2024,16-11-2023,Neha,,
+1091,Siya,,Other,Neurology,12-32-2024,15-11-2022,Aarav,20454.77,Admitted
+1056,Sara,61,Female,Pediatrics,21-06-2020,29-12-2023,Sara,43999.32,Admitted
+1088,Aarav,,Other,General,14-10-2021,12-32-2024,Neha,18390.53,Discharged
+1049,Rahul,,Other,General,23-01-2022,21-06-2020,Karan,,Discharged
+1022,Rohit,,Other,Orthopedics,28-05-2023,12-32-2024,Priya,,Admitted
+1030,Aarav,48,Male,Neurology,17-12-2022,16-08-2023,Neha,11380.47,Discharged
+1093,Priya,89,Male,Pediatrics,12-32-2024,21-11-2020,Sara,49843.52,
+1041,Priya,57,Male,Pediatrics,12-32-2024,04-12-2023,Neha,16928.96,
+1098,Ananya,22,Female,Orthopedics,12-32-2024,15-02-2023,Sara,,Admitted
+1006,Karan,,Other,Orthopedics,20-04-2021,,Priya,,Under Observation
+1015,Rahul,45,Other,Pediatrics,31-03-2021,15-04-2022,Aarav,,
+1089,Vikram,3,Male,General,08-04-2022,,Priya,27577.89,Discharged
+1059,Aarav,34,Other,Cardiology,13-06-2022,24-12-2021,Rohit,,Admitted
+1001,Sara,,Female,General,16-10-2023,12-08-2020,Aarav,45278.52,Admitted
+1000,Sara,,Other,Pediatrics,21-10-2022,,Priya,,Discharged
+1047,Karan,83,Female,Cardiology,21-01-2021,12-32-2024,Ananya,17197.29,Admitted
+1011,Priya,,Other,Oncology,13-12-2020,15-06-2021,Priya,,
+1068,Vikram,,Female,Orthopedics,08-07-2020,,Sara,33455.5,
+1036,Siya,24,Male,Cardiology,19-05-2021,22-04-2020,Priya,,
+1031,Aarav,,Male,Pediatrics,29-04-2023,19-05-2020,Ananya,43371.7,
+1008,Karan,,Male,Oncology,12-32-2024,12-32-2024,Sara,,
+1098,Rohit,76,Male,Orthopedics,,12-32-2024,Karan,,Admitted
+1018,Rahul,5,Other,Oncology,24-10-2023,12-07-2021,Vikram,28720.4,Admitted
+1047,Siya,95,Other,Pediatrics,03-12-2023,12-32-2024,Sara,,Discharged
+1079,Rahul,,Other,Oncology,03-04-2022,01-01-2020,Siya,,
+1002,Neha,,Other,Cardiology,12-32-2024,,Rahul,36016.66,Admitted
+1019,Siya,,Male,Oncology,,,Rahul,,Discharged
+1023,Priya,,Female,Neurology,17-07-2022,30-03-2020,Rahul,,Under Observation
+1053,Rahul,45,Other,Orthopedics,12-32-2024,15-10-2021,Sara,,Admitted
+1032,Siya,,Male,Oncology,22-07-2022,15-11-2020,Rohit,,Under Observation
+1023,Ananya,61,Other,Neurology,12-32-2024,18-05-2020,Siya,14839.85,Discharged
+1074,Karan,,Other,Pediatrics,14-02-2023,24-04-2022,Sara,42926.29,
+1071,Karan,16,Other,Pediatrics,13-05-2020,15-09-2020,Ananya,,Under Observation
+1035,Rahul,,Female,Pediatrics,27-02-2020,20-06-2022,Rohit,17610.7,Under Observation
+1037,Ananya,68,Male,Orthopedics,12-32-2024,20-11-2021,Siya,33716.29,Under Observation
+1083,Rahul,31,Male,Cardiology,15-11-2021,12-32-2024,Sara,24347.56,Under Observation
+1098,Neha,98,Other,Neurology,,10-01-2020,Ananya,,Discharged
+1088,Ananya,71,Female,Neurology,02-11-2021,17-09-2020,Aarav,,Under Observation
+1098,Sara,6,Other,Neurology,21-06-2020,20-06-2020,Siya,33155.88,
+1024,Rahul,31,Male,Oncology,25-03-2022,16-06-2022,Rohit,,Admitted
+1092,Siya,30,Male,Oncology,,13-01-2020,Sara,41880.22,Discharged
+1017,Karan,31,Male,Orthopedics,,06-04-2023,Karan,,Discharged
+1081,Rahul,,Female,Neurology,18-03-2023,16-11-2020,Siya,16639.01,Admitted
+1065,Vikram,22,Other,Orthopedics,,04-09-2023,Neha,,Under Observation
+1053,Sara,,Other,Cardiology,20-03-2020,24-11-2020,Karan,,Under Observation
+1034,Rohit,66,Male,Neurology,04-06-2022,23-02-2022,Priya,,
+1079,Rohit,38,Female,Neurology,12-32-2024,15-02-2022,Ananya,,Discharged
+1060,Karan,,Female,Oncology,12-32-2024,29-06-2022,Rahul,,
+1040,Ananya,39,Female,Oncology,12-32-2024,13-12-2023,Ananya,,Under Observation
+1099,Rohit,7,Male,Neurology,21-05-2023,23-01-2023,Rahul,35765.41,Under Observation
+1032,Neha,,Male,Neurology,21-07-2020,13-11-2020,Sara,26610.03,Admitted
+1067,Karan,,Male,Oncology,,23-08-2020,Rahul,15928.59,Under Observation
+1032,Aarav,32,Female,General,02-02-2022,29-11-2020,Priya,46602.87,Discharged
+1013,Ananya,,Female,General,,10-01-2021,Rohit,,Discharged
+1020,Priya,,Other,Orthopedics,06-06-2023,12-32-2024,Rohit,,Admitted
+1047,Priya,92,Other,Cardiology,04-06-2023,,Rahul,,
+1019,Priya,,Female,General,12-32-2024,12-32-2024,Priya,44790.83,Admitted
+1007,Vikram,71,Male,Orthopedics,04-01-2024,22-01-2024,Aarav,,Under Observation
+1006,Siya,,Male,Pediatrics,26-11-2023,,Aarav,44723.18,
+1066,Rahul,61,Other,Orthopedics,12-32-2024,,Siya,,Under Observation
+1016,Rahul,,Other,Cardiology,16-02-2020,06-03-2023,Priya,14016.53,Admitted
+1032,Ananya,78,Other,Neurology,10-06-2023,10-08-2021,Vikram,,Admitted
+1047,Aarav,46,Female,Pediatrics,12-32-2024,27-05-2021,Sara,,Under Observation
+1075,Siya,,Male,Cardiology,21-08-2023,12-08-2023,Siya,,
+1058,Ananya,,Other,Oncology,12-03-2023,05-09-2023,Neha,,Under Observation
+1085,Rohit,,Male,Neurology,12-32-2024,06-07-2022,Aarav,31040.87,
+1021,Sara,30,Female,Pediatrics,09-12-2023,04-10-2023,Rahul,28287.41,Discharged
+1029,Rohit,,Male,General,28-10-2023,,Vikram,14863.91,Under Observation
+1037,Rohit,,Female,Pediatrics,06-07-2023,22-05-2022,Rahul,,Discharged
+1050,Karan,65,Other,Neurology,17-10-2021,,Vikram,,
+1053,Siya,21,Male,Neurology,12-32-2024,,Neha,,Under Observation
+1007,Ananya,,Female,General,15-04-2021,06-06-2023,Aarav,,Admitted
+1026,Sara,,Female,Orthopedics,,26-09-2020,Sara,8365.79,Discharged
+1026,Siya,50,Male,Oncology,28-08-2022,08-03-2022,Vikram,,Discharged
+1097,Priya,,Male,Orthopedics,01-11-2022,07-08-2023,Rahul,,Discharged
+1020,Karan,40,Male,Cardiology,,25-12-2021,Priya,12342.58,Discharged
+1029,Ananya,27,Female,Oncology,15-09-2023,03-04-2023,Aarav,,Under Observation
+1096,Aarav,98,Other,Neurology,05-01-2022,05-01-2020,Neha,,Discharged
+1027,Vikram,,Other,Pediatrics,22-02-2022,30-04-2022,Rohit,,Under Observation
+1063,Ananya,,Male,Orthopedics,25-08-2022,12-32-2024,Vikram,30638.96,
+1096,Ananya,26,Female,General,,03-11-2023,Rahul,,Under Observation
+1068,Neha,1,Other,Cardiology,12-32-2024,18-03-2020,Neha,39106.94,Under Observation
+1060,Aarav,41,Female,Pediatrics,12-32-2024,12-32-2024,Rohit,19642.84,Under Observation
+1047,Karan,,Other,Orthopedics,23-12-2020,04-12-2023,Sara,,
+1018,Aarav,36,Male,Pediatrics,29-08-2022,,Ananya,,
+1003,Siya,86,Male,Pediatrics,,27-07-2021,Siya,,Admitted
+1034,Priya,63,Other,Neurology,02-12-2023,,Aarav,,
+1063,Aarav,,Male,General,29-10-2021,11-05-2020,Siya,,Discharged
+1048,Rohit,93,Other,Oncology,07-01-2021,23-08-2021,Karan,,Under Observation
+1016,Vikram,,Other,General,28-10-2022,01-12-2022,Karan,,Admitted
+1043,Rahul,,Female,Orthopedics,19-02-2023,12-32-2024,Ananya,3791.27,Discharged
+1091,Rahul,,Female,Pediatrics,03-10-2023,,Rohit,,Admitted
+1029,Rahul,,Other,General,12-32-2024,29-03-2020,Rohit,,Admitted
+1092,Priya,,Female,Pediatrics,06-11-2021,05-02-2021,Rohit,,Discharged
+1045,Neha,,Female,Orthopedics,30-03-2020,12-32-2024,Aarav,,Under Observation
+1005,Ananya,,Male,Neurology,,22-10-2020,Karan,6455.68,Discharged
+1098,Priya,,Male,Orthopedics,28-11-2021,11-08-2023,Neha,,Under Observation
+1036,Priya,49,Female,Neurology,12-32-2024,07-09-2021,Rohit,,Under Observation
+1023,Siya,,Male,Neurology,01-09-2023,10-03-2022,Sara,22752.86,Admitted
+1092,Neha,42,Other,Pediatrics,16-04-2023,12-32-2024,Siya,,Discharged
+1045,Sara,95,Other,Pediatrics,23-06-2021,25-02-2021,Rahul,4858.9,Admitted
+1052,Vikram,32,Female,Oncology,01-01-2022,,Karan,14387.31,Discharged
+1094,Rohit,36,Female,General,,12-11-2022,Rahul,,Admitted
+1098,Neha,33,Male,Pediatrics,18-05-2022,28-07-2021,Karan,13231.68,Under Observation
+1059,Sara,23,Female,General,10-02-2020,22-05-2020,Ananya,47303.33,Discharged
+1096,Karan,,Other,Orthopedics,12-32-2024,19-09-2022,Rahul,,Discharged
+1062,Vikram,,Female,Cardiology,09-01-2022,26-10-2021,Rahul,,Under Observation
+1084,Siya,,Other,Cardiology,12-32-2024,24-05-2020,Ananya,,
+1031,Ananya,48,Other,Oncology,16-05-2021,,Vikram,5347.44,
+1086,Karan,,Male,Neurology,16-08-2022,,Rohit,,Under Observation
+1032,Rahul,,Female,Neurology,14-03-2023,02-06-2023,Vikram,43819.46,Discharged
+1066,Siya,2,Other,Neurology,09-05-2023,03-10-2022,Aarav,41993.52,Admitted
+1017,Sara,21,Male,Neurology,17-07-2022,17-05-2021,Rohit,19666.29,Admitted
+1024,Aarav,,Male,Cardiology,12-32-2024,31-03-2022,Rahul,22620.5,Discharged
+1094,Rahul,88,Male,Orthopedics,05-04-2021,,Priya,,Discharged
+1053,Vikram,,Female,Orthopedics,01-01-2022,12-32-2024,Siya,,
+1057,Vikram,4,Male,Orthopedics,21-01-2022,13-04-2020,Priya,,
+1066,Karan,,Male,Cardiology,13-07-2022,28-11-2022,Priya,,
+1045,Neha,,Male,Orthopedics,27-06-2022,16-07-2020,Siya,37740.96,Discharged
+1023,Vikram,,Other,Pediatrics,30-06-2023,01-08-2021,Ananya,27248.11,
+1031,Vikram,83,Other,Orthopedics,24-01-2021,25-01-2021,Vikram,,Discharged
+1046,Neha,,Female,Cardiology,12-32-2024,12-32-2024,Sara,,Under Observation
+1085,Vikram,,Female,Neurology,,17-04-2023,Neha,5410.97,Discharged
+1022,Priya,,Male,Oncology,,12-32-2024,Rohit,,Admitted
+1065,Ananya,,Male,Neurology,01-06-2022,,Rohit,,
+1026,Karan,20,Other,General,12-32-2024,12-32-2024,Ananya,,Under Observation
+1001,Rahul,98,Male,Cardiology,12-09-2020,07-07-2021,Rohit,,Discharged
+1089,Ananya,,Female,Neurology,09-12-2021,11-01-2024,Vikram,49048.6,Under Observation
+1016,Ananya,,Female,Orthopedics,25-03-2021,04-11-2022,Karan,,Discharged
+1032,Karan,9,Female,Pediatrics,12-32-2024,05-08-2023,Vikram,33185.19,Under Observation
+1008,Karan,,Female,Orthopedics,,22-04-2021,Karan,14579.24,Under Observation
+1042,Karan,,Female,General,,08-06-2023,Siya,49379.51,
+1047,Aarav,,Other,Oncology,10-01-2020,11-07-2022,Rahul,,Under Observation
+1038,Aarav,90,Female,Pediatrics,03-04-2022,23-02-2021,Priya,32834.33,Discharged
+1092,Priya,60,Female,Oncology,12-32-2024,05-06-2020,Sara,,
+1041,Sara,27,Other,Cardiology,08-03-2022,12-32-2024,Karan,13077.44,Under Observation
+1025,Rahul,,Female,Cardiology,19-06-2023,03-07-2021,Sara,7423.52,
+1098,Vikram,,Other,General,,04-01-2024,Ananya,2194.3,Under Observation
+1049,Ananya,81,Other,Neurology,28-06-2023,25-01-2023,Vikram,24952.19,Discharged
+1024,Aarav,,Female,Pediatrics,26-05-2022,17-10-2022,Ananya,14661.85,Discharged
+1023,Priya,85,Female,Cardiology,25-10-2022,23-09-2022,Priya,,Under Observation
+1012,Aarav,76,Female,Neurology,16-02-2023,05-12-2023,Siya,,Discharged
+1059,Siya,8,Other,General,12-10-2022,08-08-2022,Neha,33370.28,
+1006,Siya,,Other,Orthopedics,08-01-2021,15-10-2020,Priya,11734.47,Under Observation
+1056,Karan,67,Female,Orthopedics,24-12-2022,12-32-2024,Ananya,32727.37,Discharged
+1035,Karan,97,Female,General,25-05-2020,,Karan,,
+1044,Ananya,,Other,Orthopedics,11-08-2020,12-32-2024,Sara,,Admitted
+1019,Rohit,,Male,Neurology,,01-07-2023,Ananya,,Under Observation
+1064,Priya,,Female,Neurology,12-32-2024,,Priya,,Admitted
+1007,Rohit,73,Male,Neurology,16-06-2023,12-32-2024,Karan,25403.85,Discharged
+1015,Karan,84,Male,Oncology,25-06-2020,14-07-2020,Aarav,,
+1013,Sara,42,Female,Pediatrics,02-05-2022,,Vikram,13792.59,Under Observation
+1075,Neha,81,Female,Cardiology,29-07-2023,20-08-2021,Priya,,Under Observation
+1086,Neha,,Male,Oncology,03-03-2020,12-32-2024,Ananya,19916.19,Admitted
+1014,Sara,,Other,General,,31-05-2021,Ananya,37439.79,Under Observation
+1091,Aarav,65,Female,General,12-32-2024,12-32-2024,Vikram,5957.78,
+1097,Sara,30,Other,General,25-05-2023,14-05-2022,Siya,8857.04,
+1065,Neha,,Male,Neurology,06-04-2022,15-02-2023,Aarav,,
+1031,Neha,34,Female,General,12-32-2024,16-03-2022,Karan,677.33,
+1086,Neha,98,Other,Orthopedics,,12-32-2024,Karan,37703.42,Under Observation
+1062,Aarav,,Other,Orthopedics,05-03-2022,28-03-2023,Vikram,,Discharged
+1085,Rahul,,Other,Oncology,19-11-2021,25-03-2022,Ananya,,Admitted
+1050,Sara,,Female,Oncology,12-32-2024,,Aarav,,
+1024,Sara,18,Other,Cardiology,24-01-2024,,Siya,,Admitted
+1057,Vikram,,Male,Oncology,14-04-2020,15-08-2020,Rahul,,Admitted
+1062,Vikram,89,Female,Neurology,27-01-2023,12-32-2024,Vikram,,Admitted
+1061,Aarav,39,Other,Neurology,25-05-2021,03-08-2020,Aarav,18429.11,
+1021,Aarav,,Other,Pediatrics,,05-08-2022,Aarav,,Admitted
+1057,Siya,80,Female,Oncology,19-01-2021,15-01-2020,Priya,,Discharged
+1057,Ananya,41,Other,Cardiology,12-32-2024,26-03-2023,Siya,13184.99,Discharged
+1085,Siya,6,Female,Cardiology,08-02-2021,08-07-2023,Karan,3526.42,Admitted
+1048,Rohit,25,Female,General,02-04-2022,12-32-2024,Rohit,4367.76,Under Observation
+1051,Neha,83,Male,Orthopedics,01-06-2021,12-32-2024,Karan,,Admitted
+1041,Aarav,,Male,Neurology,20-04-2021,26-03-2023,Sara,34678.76,Discharged
+1069,Ananya,,Other,Orthopedics,12-32-2024,16-02-2020,Rahul,41845.8,Admitted
+1014,Ananya,,Other,Oncology,12-32-2024,12-32-2024,Karan,29199.87,Admitted
+1053,Karan,,Male,Neurology,09-12-2021,19-11-2020,Rahul,,
+1059,Vikram,12,Female,Oncology,09-02-2022,23-04-2022,Neha,27786.67,Admitted
+1096,Neha,30,Female,Oncology,31-12-2023,09-05-2020,Aarav,,Under Observation
+1007,Neha,40,Female,Pediatrics,12-11-2022,12-32-2024,Sara,,Discharged
+1052,Rohit,,Male,Neurology,23-09-2022,05-12-2023,Siya,,Admitted
+1059,Siya,31,Male,Cardiology,07-11-2021,04-04-2020,Karan,,Admitted
+1004,Ananya,,Other,General,14-12-2021,12-32-2024,Rahul,,Admitted
+1067,Neha,60,Male,General,12-32-2024,18-09-2021,Neha,8574.13,Admitted
+1005,Rohit,,Other,Orthopedics,12-32-2024,24-01-2022,Siya,,
+1095,Priya,26,Female,Pediatrics,,,Priya,,Admitted
+1093,Aarav,18,Male,General,21-01-2024,08-08-2023,Priya,46574.55,Discharged
+1046,Sara,,Female,Orthopedics,12-32-2024,12-32-2024,Neha,,Under Observation
+1098,Neha,,Other,General,12-32-2024,04-03-2022,Rahul,11347.13,
+1054,Sara,,Other,Cardiology,23-03-2020,12-32-2024,Siya,20456.36,Under Observation
+1039,Karan,91,Other,Cardiology,,12-32-2024,Neha,12721.06,Discharged
+1051,Aarav,,Female,Neurology,14-03-2023,30-07-2023,Rohit,,Under Observation
+1015,Priya,,Male,General,13-01-2023,09-03-2020,Rohit,22450.97,
+1012,Neha,57,Male,Pediatrics,06-01-2023,11-01-2020,Rahul,18957.99,Under Observation
+1029,Rohit,78,Female,General,01-04-2021,01-07-2023,Vikram,23970.9,Under Observation
+1018,Ananya,,Other,General,01-01-2020,21-05-2022,Karan,41294.22,Admitted
+1016,Karan,7,Male,Neurology,20-02-2020,03-07-2021,Aarav,17597.41,Admitted
+1062,Rahul,99,Female,General,,,Rohit,,Discharged
+1018,Sara,,Female,Neurology,15-11-2021,03-03-2023,Neha,,
+1091,Aarav,75,Male,Oncology,17-12-2021,12-32-2024,Sara,40116.34,Discharged
+1057,Neha,14,Male,Oncology,,12-12-2021,Karan,37054.53,
+1054,Aarav,,Other,Cardiology,09-01-2024,,Rohit,9392.55,
+1089,Vikram,92,Male,Orthopedics,24-03-2021,12-32-2024,Aarav,21128.28,Admitted
+1089,Sara,,Female,Neurology,,23-01-2020,Vikram,,
+1061,Vikram,,Male,General,30-05-2022,,Neha,10855.41,
+1022,Aarav,,Female,Pediatrics,02-05-2021,,Aarav,13434.09,
+1008,Vikram,12,Female,Orthopedics,,,Priya,20536.5,Admitted
+1011,Siya,79,Other,Cardiology,03-02-2020,25-03-2022,Karan,,Discharged
+1000,Vikram,,Other,General,03-10-2023,11-12-2020,Aarav,2884.78,
+1057,Rahul,35,Female,Neurology,,28-10-2020,Ananya,3345.7,Admitted
+1000,Aarav,97,Other,Pediatrics,04-04-2020,12-32-2024,Sara,27481.67,Discharged
+1033,Rohit,,Female,Orthopedics,31-12-2022,28-12-2020,Rohit,,
+1095,Aarav,,Male,Pediatrics,,,Rohit,10449.55,Admitted
+1047,Siya,63,Other,General,02-06-2020,30-01-2021,Rahul,,
+1088,Aarav,,Other,Cardiology,06-09-2020,05-08-2020,Karan,,
+1000,Siya,53,Male,General,04-11-2021,20-05-2020,Ananya,49005.5,Admitted
+1015,Rahul,36,Male,Orthopedics,,15-08-2022,Sara,20051.41,
+1060,Aarav,13,Other,Neurology,13-03-2021,18-05-2023,Rohit,29808.77,Under Observation
+1063,Rohit,,Female,Neurology,27-04-2020,11-09-2022,Priya,,Admitted
+1062,Priya,30,Male,Cardiology,09-02-2022,19-09-2022,Neha,,Admitted
+1068,Aarav,,Female,General,12-32-2024,07-04-2022,Karan,,Under Observation
+1021,Siya,,Other,Cardiology,22-08-2023,13-11-2021,Priya,,
+1092,Neha,39,Male,Neurology,24-09-2020,23-01-2024,Priya,,Under Observation
+1066,Rahul,,Male,Orthopedics,13-12-2022,30-09-2022,Priya,,
