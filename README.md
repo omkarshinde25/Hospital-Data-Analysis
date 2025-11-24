@@ -22,22 +22,28 @@ Several Excel tasks such as sorting, filtering, computing averages, highlighting
 The cleaned dataset is stored in a SQLite database for structured data management. This integration simulates real-world healthcare data handling, making it easier to organize, retrieve, and analyse information. SQLite supports the analytical workflow with consistent and reliable storage.
 
 1. Show all records from the hospital table
-<img src="https://github.com/omkarshinde25/Hospital-Data-Analysis/blob/main/Photos/Hospital%20Data%20Analysis%20Dashboard.png" width="800"> <br>
    
+<img src="https://github.com/omkarshinde25/Hospital-Data-Analysis/blob/main/Photos/1.%20Show%20all%20records%20from%20the%20hospital%20table.png" width="800"> <br>
+
 2. Show all patients whose Gender = 'Male'.
-<img src="https://github.com/omkarshinde25/Hospital-Data-Analysis/blob/main/Photos/Hospital%20Data%20Analysis%20Dashboard.png" width="800"> <br>
+
+<img src="https://github.com/omkarshinde25/Hospital-Data-Analysis/blob/main/Photos/2.%20Show%20all%20patients%20whose%20Gender%20%3D%20'Male'..png" width="800"> <br>
 
 3. Show all patients with NULL BillAmount.
-<img src="https://github.com/omkarshinde25/Hospital-Data-Analysis/blob/main/Photos/Hospital%20Data%20Analysis%20Dashboard.png" width="800"> <br>
+
+<img src="https://github.com/omkarshinde25/Hospital-Data-Analysis/blob/main/Photos/3.%20Show%20all%20patients%20with%20NULL%20BillAmount..png" width="800"> <br>
 
 4. Show patients whose Name starts with 'A'.
-<img src="https://github.com/omkarshinde25/Hospital-Data-Analysis/blob/main/Photos/Hospital%20Data%20Analysis%20Dashboard.png" width="800"> <br>
+
+<img src="https://github.com/omkarshinde25/Hospital-Data-Analysis/blob/main/Photos/4.%20Show%20patients%20whose%20Name%20starts%20with%20'A'..png" width="800"> <br>
 
 5. Show all patients with BillAmount greater than 20000.
-<img src="https://github.com/omkarshinde25/Hospital-Data-Analysis/blob/main/Photos/Hospital%20Data%20Analysis%20Dashboard.png" width="800"> <br>
 
-6. 6. Count how many patients were treated by each doctor (group by Doctor).
-<img src="https://github.com/omkarshinde25/Hospital-Data-Analysis/blob/main/Photos/Hospital%20Data%20Analysis%20Dashboard.png" width="800"> <br>
+<img src="https://github.com/omkarshinde25/Hospital-Data-Analysis/blob/main/Photos/5.%20Show%20all%20patients%20with%20BillAmount%20greater%20than%2020000..png" width="800"> <br>
+
+6. Count how many patients were treated by each doctor (group by Doctor).
+
+<img src="https://github.com/omkarshinde25/Hospital-Data-Analysis/blob/main/Photos/6.%20Count%20how%20many%20patients%20were%20treated%20by%20each%20doctor%20(group%20by%20Doctor)..png" width="800"> <br>
 
 ## 8. SQL Data Exploration
 SQL operations are performed to understand key insights such as total patients, department counts, gender distribution, and financial totals. The database supports efficient extraction of insights and demonstrates how hospitals maintain and query structured data.
